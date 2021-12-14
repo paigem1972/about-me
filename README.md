@@ -6,7 +6,9 @@ Hello, my name is Valentine Montana and my email is paigem1972@hstat.org. I'm cu
 4. I have two dogs, Bruno and Ollie.
 5. I have a chronic anxiety disorder.
 6. My best friend is Vio Patt
+
 I'm running out of facts about myself so here's my schedule:
+
 1. Chemistry
 2. Algebra 2
 3. Gym
