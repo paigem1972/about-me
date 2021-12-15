@@ -1,5 +1,5 @@
 # about-me
-Hello, my name is **Valentine Montana** and my email is **paigem1972@hstat.org**. I'm currently a student at hstat and I'm in the sep10 program.My birthday is February 27th and my deepest darkest secret is that everything I do is **_purely muscle memory_**.  
+Hello, my name is **Valentine Montana** and my email is **paigem1972@hstat.org**.  I'm currently a student at hstat and I'm in the sep10 program.  My birthday is February 27th and my deepest darkest secret is that everything I do is **_purely muscle memory_**.  
 
 - - -
 ### The following text are facts about me:
@@ -25,3 +25,6 @@ I want to make a video game.
 6. Lunch
 7. English
 8. Global history
+
+- - -
+Here's a link to one of my [websites] (https://makesomethingcss.paigem1972.repl.co/).  Its some of my earlier work but Im still proud of it. 
