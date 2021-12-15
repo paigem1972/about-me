@@ -1,5 +1,8 @@
 # about-me
-Hello, my name is **Valentine Montana** and my email is **paigem1972@hstat.org**. I'm currently a student at hstat and I'm in the sep10 program. My birthday is February 27th and my deepest darkest secret is that everything I do is **_purely muscle memory_**. _The following text are facts about me:_
+Hello, my name is **Valentine Montana** and my email is **paigem1972@hstat.org**. I'm currently a student at hstat and I'm in the sep10 program. My birthday is February 27th and my deepest darkest secret is that everything I do is **_purely muscle memory_**. 
+
+### The following text are facts about me:
+
 1. I'm totally a human being and not a robot.
 2. Im bad at spelling.
 3. My favorite color is red.
@@ -8,7 +11,7 @@ Hello, my name is **Valentine Montana** and my email is **paigem1972@hstat.org**
 6. My best friend is Vio Patt
 7. I want to make a video game. 
 
-I'm running out of facts about myself so here's my schedule:
+### I'm running out of facts about myself so here's my schedule:
 
 1. Chemistry
 2. Algebra 2
