@@ -27,4 +27,4 @@ I want to make a video game.
 8. Global history
 
 - - -
-Here's a link to one of my [websites] (https://makesomethingcss.paigem1972.repl.co/).  Its some of my earlier work but Im still proud of it. 
+Here's a link to one of my [websites](https://makesomethingcss.paigem1972.repl.co/).  Its some of my earlier work but Im still proud of it. 
