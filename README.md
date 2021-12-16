@@ -10,8 +10,8 @@ Hello, my name is **Valentine Montana** and my email is **paigem1972@hstat.org**
 * I have two dogs:
   * Bruno and Ollie.
 * I have a chronic anxiety disorder.
-6.  My best friend is Vio Patt.
-I want to make a video game.
+* My best friend is Vio Patt.
+* I want to make a video game.
 
 - - -
 
@@ -27,4 +27,4 @@ I want to make a video game.
 8. Global history
 
 - - -
-Here's a link to one of my [websites](https://makesomethingcss.paigem1972.repl.co/).  Its some of my earlier work but Im still proud of it. 
+Here's a link to one of my [websites](https://makesomethingcss.paigem1972.repl.co/).  Its some of my earlier work but Im still proud of it.  Thanks for reading this! 
