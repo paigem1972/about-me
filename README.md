@@ -17,5 +17,5 @@ I'm running out of facts about myself so here's my schedule:
 5. Spanish
 6. Lunch
 7. English
-8. Global history 
+8. Global history! 
 
